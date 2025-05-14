@@ -1,2 +1,7 @@
 Broken links found by `docs:link-check` that exist:
 
+<<<<<<< HEAD
+=======
+- https://mui.com/x/react-data-grid/row-grouping/#disable-the-row-grouping
+- https://mui.com/x/react-data-grid/server-side-data/#updating-data
+>>>>>>> e66e24465 ([docs][data grid] Revise server-side data docs (#17007))
